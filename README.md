@@ -1,2 +1,3 @@
 # idlab.github.io
-This will serve our organization website.
+
+This repository manages http://ilt-idlab.nl/.
