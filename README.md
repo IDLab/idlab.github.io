@@ -1,3 +1,1 @@
-# idlab.github.io
-
-This repository manages http://ilt-idlab.nl/.
+This repository manages https://www.ilt-idlab.nl/.
